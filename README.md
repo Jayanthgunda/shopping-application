@@ -7,3 +7,4 @@ To create this i have used eclipse ide, Java SWING and MySQL DataBase.
 * Adimn account can update product stock, can able to see all the orders that are placed, add new products
 * User can see the available products with images, description, price, quantity and able to add to cart
 User can able to place order the total price is shown
+This is video demonistration:- https://youtu.be/yQe6yAMc1mg
